@@ -1,5 +1,11 @@
 # One-Click Disk Uploader
 
+> **⚠️ Note:**  
+> **This project is an old project created while I was learning programming.**  
+> The code does not follow modern best practices and may need refactoring.  
+> It serves as a learning example and is not maintained according to current standards.  
+> **However, it still works as expected.**
+
 A simple and efficient tool to back up selected folders to a USB flash drive with just a single click. This application provides a user-friendly interface to select, manage, and back up folders to a connected USB drive, ensuring your data is safe and accessible.
 
 ## Features
